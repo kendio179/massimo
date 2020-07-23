@@ -1,4 +1,3 @@
-# massimo
 echo "# massimo" >> README.md
 git init
 git add README.md
